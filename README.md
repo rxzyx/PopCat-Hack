@@ -6,7 +6,7 @@
 
 ## Features:
 
-- **Add Clicks** - Add clicks for your country,
+- **Add Country Clicks** - Add clicks for your country,
 - **Add User Cliks** - Add clicks for yourself.
 ## 🤖 Features with Problems (will be fixed soon):
 
