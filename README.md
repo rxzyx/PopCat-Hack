@@ -1,4 +1,4 @@
-<h1 align="center"POPCAT Hack</h1>
+<h1 align="center">POPCAT Hack</h1>
 <h3 align="center">The best hack for popcat.click.</h3>
 
 #### Made by rxzyx (rzx). This is purley for education purposes.
