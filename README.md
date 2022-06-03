@@ -7,7 +7,8 @@
 ## Features:
 
 - **Add Country Clicks** - Add clicks for your country,
-- **Add User Cliks** - Add clicks for yourself.
+- **Add User Cliks** - Add clicks for yourself,
+- **Auto Clicker** - Automatically clicks for you.
 ## 🤖 Features with Problems (will be fixed soon):
 
 - None for now, report to Issues if you find an issue!
